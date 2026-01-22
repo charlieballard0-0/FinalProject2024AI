@@ -1,4 +1,4 @@
-# FinalProject2024AI
+# FinalProject2024Ai
 # making a ai for tic tac toe using a minimax search and alpha beta pruning algorithm with a gui as well :D 
 
 # instructions:
